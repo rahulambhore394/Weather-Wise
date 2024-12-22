@@ -239,7 +239,7 @@
                                     android:fontFamily="sans-serif"
                                     android:textColor="@color/white"
                                     android:text="100"
-                                    android:textSize="@dimen/_15sdp"/>
+                                    android:textSize="@dimen/_15ssp"/>
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -247,7 +247,7 @@
                                     android:fontFamily="sans-serif"
                                     android:textColor="@color/white"
                                     android:text="Pressure"
-                                    android:textSize="@dimen/_10sdp"/>
+                                    android:textSize="@dimen/_10ssp"/>
 
                             </LinearLayout>
 
@@ -289,7 +289,7 @@
                                     android:gravity="center"
                                     android:text="Humidity"
                                     android:textColor="@color/white"
-                                    android:textSize="@dimen/_10sdp" />
+                                    android:textSize="@dimen/_10ssp" />
 
                             </LinearLayout>
 
@@ -329,7 +329,7 @@
                                     android:fontFamily="sans-serif"
                                     android:textColor="@color/white"
                                     android:text="Wind Speed"
-                                    android:textSize="@dimen/_10sdp"/>
+                                    android:textSize="@dimen/_10ssp"/>
 
                             </LinearLayout>
 
@@ -372,7 +372,7 @@
                                     android:fontFamily="sans-serif"
                                     android:textColor="@color/white"
                                     android:text="100"
-                                    android:textSize="@dimen/_15sdp"/>
+                                    android:textSize="@dimen/_15ssp"/>
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -380,7 +380,7 @@
                                     android:fontFamily="sans-serif"
                                     android:textColor="@color/white"
                                     android:text="Sunrise"
-                                    android:textSize="@dimen/_10sdp"/>
+                                    android:textSize="@dimen/_10ssp"/>
 
                             </LinearLayout>
 
@@ -420,7 +420,7 @@
                                     android:fontFamily="sans-serif"
                                     android:textColor="@color/white"
                                     android:text="Sunset"
-                                    android:textSize="@dimen/_10sdp"/>
+                                    android:textSize="@dimen/_10ssp"/>
 
                             </LinearLayout>
 
@@ -452,7 +452,7 @@
                                     android:fontFamily="sans-serif"
                                     android:textColor="@color/white"
                                     android:text="100"
-                                    android:textSize="@dimen/_15sdp"/>
+                                    android:textSize="@dimen/_15ssp"/>
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
@@ -460,7 +460,7 @@
                                     android:fontFamily="sans-serif"
                                     android:textColor="@color/white"
                                     android:text="Temp"
-                                    android:textSize="@dimen/_10sdp"/>
+                                    android:textSize="@dimen/_10ssp"/>
 
                             </LinearLayout>
 
